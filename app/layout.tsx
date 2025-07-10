@@ -20,6 +20,7 @@ export const metadata: Metadata = {
   description:
     "Explore the portfolio of Francisca Udechukwu, a results-driven marketing strategist helping brands grow through data, creativity, and innovation.",
   keywords: [
+    "Nigerian Girl",
     "Francisca Udechukwu",
     "Marketing Strategist",
     "Brand Growth",
@@ -30,18 +31,18 @@ export const metadata: Metadata = {
     "Content Strategy",
     "Campaign Planning",
   ],
-  authors: [{ name: "Francisca Udechukwu", url: "https://yourdomain.com" }],
+  authors: [{ name: "Francisca Udechukwu", url: "https://www.brandlyamaka.com" }],
   creator: "Francisca Udechukwu",
   generator: "Next.js",
   openGraph: {
     title: "Francisca Udechukwu | Marketing Strategist Portfolio",
     description:
       "Browse a portfolio of strategic marketing projects and campaigns by Francisca Udechukwu. Helping brands grow with insight-driven strategies.",
-    url: "https://yourdomain.com",
-    siteName: "Francisca Udechukwu",
+    url: "https://www.brandlyamaka.com",
+    siteName: "brandlyamaka",
     images: [
       {
-        url: "https://yourdomain.com/og-image.jpg",
+        url: "https://brandlyamaka.com/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Francisca Udechukwu Portfolio Preview",
@@ -54,13 +55,13 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Francisca Udechukwu | Marketing Strategist",
     description:
-      "Discover the strategic marketing work of Francisca Udechukwu — portfolio, case studies, and more.",
-    creator: "@yourhandle",
-    images: ["https://yourdomain.com/og-image.jpg"],
+      "Discover the strategic marketing work of Francisca Udechukwu portfolio, case studies, and more.",
+    creator: "@brandlyamaka",
+    images: ["https://brandlyamaka.com/og-image.jpg"],
   },
-  metadataBase: new URL("https://yourdomain.com"),
+  metadataBase: new URL("https://brandlyamaka.com"),
   alternates: {
-    canonical: "https://yourdomain.com",
+    canonical: "https://brandlyamaka.com",
   },
 };
 
